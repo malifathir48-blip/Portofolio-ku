@@ -30,8 +30,8 @@ Kunjungi website portofolio saya di sini:
 
 ## ✉️ Kontak
 - 📧 Email: malifathir48@gmail.com  
-- 💻 GitHub: [github.com/malifathir48]([https://github.com/malifathir48]  
-- 🔗 LinkedIn: [linkedin.com/in/m-ali-fathir](www.linkedin.com/in/m-ali-fathir-793a21344)  
+- 💻 GitHub: [github.com/malifathir48]
+- 🔗 LinkedIn: (www.linkedin.com/in/m-ali-fathir-793a21344)  
 - 📸 Instagram: [instagram.com/al arn 2](https://www.instagram.com/al_arn_2?igsh=YjRubW50aXpmcDFj))
 
 ---
